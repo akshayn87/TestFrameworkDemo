@@ -1,0 +1,4 @@
+.gitignore File Patterns
+/Dockerfile
+/abc.txt
+/src/
